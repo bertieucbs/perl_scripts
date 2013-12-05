@@ -1,3 +1,7 @@
+#Utility program to find the ranges
+#Author : Nitin Bertie Eusebius
+#Status : Open Source
+
 #!/usr/bin/perl
 use warnings;
 use strict;
